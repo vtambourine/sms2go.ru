@@ -1,2 +1,1 @@
-# sms2to.ru
-SMS pass generator
+[sms2go.ru](https://sms2go.ru)
